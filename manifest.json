@@ -1,0 +1,26 @@
+{
+  "feed": "reel-bank",
+  "version": 1,
+  "generated_at": "2026-09-27T09:12:16.331432+00:00",
+  "count": 776,
+  "categories": [
+    "AI tools",
+    "Books",
+    "Comedy",
+    "Finance",
+    "Fitness & health",
+    "Food & recipes",
+    "Gaming",
+    "Home finds",
+    "Motivation",
+    "Movies",
+    "Music",
+    "Other",
+    "Photography & video",
+    "Tech & homelab",
+    "Travel",
+    "Watches",
+    "Weddings"
+  ],
+  "feed_url": "https://raw.githubusercontent.com/SinghSiddharth01/reel-bank/main/reels.json"
+}
