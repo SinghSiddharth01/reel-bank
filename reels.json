@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 7,
- "generated_at": "2026-09-28T07:35:33.217440+00:00",
- "count": 781,
+ "version": 8,
+ "generated_at": "2026-09-28T07:40:11.101089+00:00",
+ "count": 782,
  "categories": [
   "AI tools",
   "Books",
@@ -12657,6 +12657,24 @@
    "posted_label": "September 9",
    "added_at": "2026-09-28T07:35:33.217440+00:00",
    "library_id": 782
+  },
+  {
+   "title": "Top 4 UI libraries every vibe coder should know",
+   "summary": "kevin (@kevin.snippet) gives a fast-paced screen-recorded walkthrough of four UI libraries for vibe coders. First, Unlumen UI — animations, image effects, navigation components, and backgrounds/shaders to make websites more interactive. Second, Magic UI — beautiful components like animated lists, theme toggles, special effects (e.g. meteors), templates, and ready-to-use showcase sections. Third, Smooth UI — stylish text effects, buttons, UI components, and prebuilt blocks such as hero sections and stats blocks for building modern sites faster. Fourth, Retro UI — neo-brutalist design with a Figma UI kit of 300+ components (carousels, cards, dropdown menus) plus blocks and templates. He closes at his desk asking viewers to comment 'Libraries' for all the links. Comments are positive and utility-focused ('Superb work,' 'Clean component libraries save so much dev time'), with several link requests and mentions of shadcn MCP and awesmos.com.",
+   "category": "AI tools",
+   "tags": [
+    "UI libraries",
+    "vibe coding",
+    "web design",
+    "frontend",
+    "components"
+   ],
+   "creator_handle": "@kevin.snippet",
+   "creator_name": "kevin Developer | Coding",
+   "url": "https://instagram.com/p/DbI2iubT1yA/",
+   "posted_label": "July 23",
+   "added_at": "2026-09-28T07:40:11.101089+00:00",
+   "library_id": 783
   }
  ]
 }
