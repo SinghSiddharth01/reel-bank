@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 8,
- "generated_at": "2026-09-28T07:40:11.101089+00:00",
- "count": 782,
+ "version": 9,
+ "generated_at": "2026-09-29T18:36:48.834263+00:00",
+ "count": 783,
  "categories": [
   "AI tools",
   "Books",
@@ -12675,6 +12675,24 @@
    "posted_label": "July 23",
    "added_at": "2026-09-28T07:40:11.101089+00:00",
    "library_id": 783
+  },
+  {
+   "title": "4 websites for building 3D interactive experiences with Three.js and AI",
+   "summary": "Codvyn (@codvyn) presents four starting-point websites for building 3D, interactive web experiences (speaking Hindi, at a dual-monitor desk). He opens with 'Buttermax' — a yellow, fluid, game-like site — then walks through: 1/4 threeui.com, a gallery of free and paid Three.js templates like 'KAGE' and 'RASTER RUN,' noting you can copy the template prompt for an AI agent to build it; 2/4 tasteskill.dev, 'The Anti-Slop Frontend Framework for AI Agents' for clean UI components; 3/4 gsap.com, showing smooth 3D component examples; 4/4 21st.dev, another library of paid templates. His laptop shows a 'Start it. Build it. Launch it.' page alongside. He frames these as starting points for modern web design with AI tools like Claude, and asks viewers to like and comment for all four links. Comments are enthusiastic and technical: link requests, GPU performance concerns, and suggestions to add awwwards.com.",
+   "category": "AI tools",
+   "tags": [
+    "Three.js",
+    "3D websites",
+    "UI components",
+    "vibe coding",
+    "Claude skills"
+   ],
+   "creator_handle": "@codvyn",
+   "creator_name": "Codvyn | Tech and AI",
+   "url": "https://instagram.com/p/Dd35bp-q_Cv/",
+   "posted_label": "September 29",
+   "added_at": "2026-09-29T18:36:48.834263+00:00",
+   "library_id": 784
   }
  ]
 }
