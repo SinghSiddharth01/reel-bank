@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 9,
- "generated_at": "2026-09-29T18:36:48.834263+00:00",
- "count": 783,
+ "version": 10,
+ "generated_at": "2026-09-29T21:06:33.958554+00:00",
+ "count": 784,
  "categories": [
   "AI tools",
   "Books",
@@ -12693,6 +12693,24 @@
    "posted_label": "September 29",
    "added_at": "2026-09-29T18:36:48.834263+00:00",
    "library_id": 784
+  },
+  {
+   "title": "StringTune: lightweight animation toolkit for scroll effects with Claude Code",
+   "summary": "Shai (@shai.hq) presents StringTune, a lightweight JavaScript animation toolkit pitched as a leaner alternative to heavy libraries like GSAP for scroll animations. His docs walkthrough shows modules including Parallax, Glide, Progress, Lerp, and Cursor Interactions, plus homepage demos like a katana scroll effect and cloud artwork. His recommended workflow: install via `npm install @fiddle-digital/string-tune`, share the StringTune documentation URL with Claude Code, tell it the interaction you want (subtle parallax, magnetic buttons, smooth scroll reveals), and let Claude wire it into the site — he shows the animated result on a landing page. He also promotes his '100 days to become a Design Engineer with Claude Code' program (Nov 2 – Dec 6, 2026) and asks viewers to comment 'Super' for the link. Comments are mixed and technical: one viewer is confused about the difference between 'claude design' and Claude Code, another wants complex app examples beyond marketing sites (e.g. Jira-style flows), to which the creator notes he also covers fintech and healthcare apps with complex flows.",
+   "category": "AI tools",
+   "tags": [
+    "animation",
+    "scroll animations",
+    "Claude Code",
+    "web design",
+    "frontend"
+   ],
+   "creator_handle": "@shai.hq",
+   "creator_name": "Shai",
+   "url": "https://instagram.com/p/Dd30poYhlfP/",
+   "posted_label": "September 29",
+   "added_at": "2026-09-29T21:06:33.958554+00:00",
+   "library_id": 785
   }
  ]
 }
