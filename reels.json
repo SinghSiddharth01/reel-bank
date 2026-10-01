@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 10,
- "generated_at": "2026-09-29T21:06:33.958554+00:00",
- "count": 784,
+ "version": 11,
+ "generated_at": "2026-10-01T08:11:10.506637+00:00",
+ "count": 785,
  "categories": [
   "AI tools",
   "Books",
@@ -12711,6 +12711,24 @@
    "posted_label": "September 29",
    "added_at": "2026-09-29T21:06:33.958554+00:00",
    "library_id": 785
+  },
+  {
+   "title": "Every vibe coder's SEO prompt (satirical checklist)",
+   "summary": "Udayan (@udayan.builds) delivers a satirical 'SEO prompt' for vibe coders — a couch monologue to Claude where on-screen text racks up SEO demands for his 'vibe-coded website': server-side rendering, sitemap.xml, Search Console submission, unblocking Googlebot and robots.txt, removing noindex tags, killing redirect chains, fixing 404s, canonical tags, meta descriptions, one H1 per page, FAQ schema, breadcrumbs, linking orphan pages, alt text on every image, WebP conversion, fixing layout shift, loading under 2 seconds, removing AI content, adding an author bio, and — the kicker — getting a backlink from Forbes. It closes on an orange banner: 'RANK #1 BY FRIDAY. make no mistakes.' The joke satirizes the vibe-coding trend of expecting AI to magically solve complex engineering instantly, and per the caption it's genuinely a solid technical SEO checklist beneath the irony.",
+   "category": "AI tools",
+   "tags": [
+    "SEO",
+    "vibe coding",
+    "Claude",
+    "technical SEO",
+    "web development"
+   ],
+   "creator_handle": "@udayan.builds",
+   "creator_name": "Udayan | SEO and AI Visibility",
+   "url": "https://instagram.com/p/Dd36v-8s8O2/",
+   "posted_label": "September 29",
+   "added_at": "2026-10-01T08:11:10.506637+00:00",
+   "library_id": 786
   }
  ]
 }
