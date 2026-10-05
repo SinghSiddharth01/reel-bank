@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 11,
- "generated_at": "2026-10-01T08:11:10.506637+00:00",
- "count": 785,
+ "version": 12,
+ "generated_at": "2026-10-05T19:37:46.484826+00:00",
+ "count": 786,
  "categories": [
   "AI tools",
   "Books",
@@ -12729,6 +12729,24 @@
    "posted_label": "September 29",
    "added_at": "2026-10-01T08:11:10.506637+00:00",
    "library_id": 786
+  },
+  {
+   "title": "Spectral.js: pigment-style color mixing in JavaScript (Kubelka–Munk)",
+   "summary": "index.opensource explains Spectral.js 3.0.0, Ronald van Wijnen's open-source JS library for pigment-style color mixing. The core demo: mixing blue #002185 and yellow #FCD200 at equal factors gives vibrant green #3D933E with Spectral.js, versus the muted olive #7E7A43 you'd get from a naive RGB average. The method: every color is converted into a reflectance curve (380–750 nm) built from seven base curves (white, cyan, magenta, yellow, red, green, blue), then mixed with a single-constant Kubelka–Munk model from the 1930s, which computes absorption versus scattering — blue absorbing reds and yellow absorbing blues leaves green reflected. It's an approximation, not a guarantee of matching real paint. Tinting strength adjustment stops one pigment dominating, and varying amounts builds palettes. Suggested uses: painterly gradients, generative paintings, and color pickers with adjustable tinting. MIT licensed; retain the copyright/permission notice when distributing copies or substantial portions.",
+   "category": "AI tools",
+   "tags": [
+    "creative coding",
+    "color mixing",
+    "JavaScript",
+    "generative art",
+    "open source"
+   ],
+   "creator_handle": "@index.opensource",
+   "creator_name": "index.opensource (curated by @hyun2xyz)",
+   "url": "https://instagram.com/p/DeHlo1wBINS/",
+   "posted_label": "October 5",
+   "added_at": "2026-10-05T19:37:46.484826+00:00",
+   "library_id": 787
   }
  ]
 }
