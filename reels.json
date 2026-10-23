@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 14,
- "generated_at": "2026-10-14T06:17:43.105907+00:00",
- "count": 788,
+ "version": 15,
+ "generated_at": "2026-10-23T05:01:01.907200+00:00",
+ "count": 789,
  "categories": [
   "AI tools",
   "Books",
@@ -12783,6 +12783,24 @@
    "posted_label": "October 13",
    "added_at": "2026-10-14T06:17:43.105907+00:00",
    "library_id": 788
+  },
+  {
+   "title": "Chicken smash tacos with crispy homemade tortillas and crunchy slaw",
+   "summary": "Sameeksha Rout (@cookwithsameeksha, Bangalore) makes the weeknight dinner she turns to on work nights when she wants something quick that still feels like a proper meal: chicken smash tacos with crispy homemade tortillas and fresh crunchy slaw, now officially in her weeknight rotation. Method shown: minced chicken in a metal bowl is seasoned with chopped onions, garlic, green chilies, red chili flakes and other simple seasonings, then mixed by hand. The slaw is shredded cabbage and carrots combined with mayonnaise, lemon juice, salt and pepper. She spreads the seasoned chicken mixture onto small homemade tortillas, places them chicken-side-down in a hot pan and cooks until golden and crispy, flips them, adds cheese to melt inside, then folds the tortillas. The finished tacos are opened and topped with the fresh slaw, presented on brown paper alongside a can of Coca-Cola. Framed as a dinner in under 30 minutes. Caveat: the reel gives no quantities, and it does not show how the homemade tortillas themselves are made — two of the four comments ask exactly that, with no answer shown.",
+   "category": "Food & recipes",
+   "tags": [
+    "chicken tacos",
+    "weeknight dinner",
+    "30-minute dinner",
+    "homemade tortillas",
+    "crunchy slaw"
+   ],
+   "creator_handle": "@cookwithsameeksha",
+   "creator_name": "Sameeksha Rout",
+   "url": "https://www.instagram.com/reel/DerR2AcAgeI/",
+   "posted_label": "October 19",
+   "added_at": "2026-10-23T05:01:01.907200+00:00",
+   "library_id": 790
   }
  ]
 }
