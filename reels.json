@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 15,
- "generated_at": "2026-10-23T05:01:01.907200+00:00",
- "count": 789,
+ "version": 16,
+ "generated_at": "2026-10-26T23:03:47.494884+00:00",
+ "count": 790,
  "categories": [
   "AI tools",
   "Books",
@@ -12801,6 +12801,25 @@
    "posted_label": "October 19",
    "added_at": "2026-10-23T05:01:01.907200+00:00",
    "library_id": 790
+  },
+  {
+   "title": "Dimensional Drawing: open-source skill that turns UI components into Apple-style technical spec sheets",
+   "summary": "Github Signals (@githubsignals) presents Dimensional Drawing, an open-source tool (github.com/enesozturk/dimensional-drawing, by Enes Ozturk) that turns any UI component into a precise technical blueprint. Instead of vague design notes, it generates a single dense sheet mapping every padding, gap and corner radius using variable codes. It mimics Apple's accessory dimensional drawings: neutral, monochrome, focused purely on structure, so the architectural guide stays true even when the text changes. The sheet can also be animated — lines draw themselves and the layers explode into a three-dimensional view. Repo-verified detail: it ships as two agent skills — dimensional-drawing (the sheet) and dimensional-drawing-motion (turns a sheet into a ~10-second film). House rules: monochrome grays only, told apart by line weight/dashes/hatches; architecture not content (slots labeled like TITLE SLOT · FLEX, ACTION · HUG); variables not raw numbers (S1, R2, H1 = 2·S1 + H3, R2 = R1 − B − S6); unbranded names like UI-CARD-001; never invent values — unknowns stay [TBD]. Output is a title block with key variables, then one sheet with notes, plan view, exploded layers, detail views and variable tables; examples are a Card and a Dialog. Install for Claude Code: git clone the repo and copy skills/* into ~/.claude/skills/, or npx skills add enesozturk/dimensional-drawing for other agents (Codex, Cursor, Gemini CLI). Motion is optimized for Claude's Motion artifact (export MP4); a headless Playwright + ffmpeg adapter works without Claude, while Remotion/GSAP/Lottie etc. are explicitly not tested. MIT licensed; repo created Oct 23, 2026 and at ~991 stars when checked. Note: the reel's stored media analysis was empty, so this summary rests on the caption plus the repo itself.",
+   "category": "AI tools",
+   "tags": [
+    "Claude Code",
+    "design handoff",
+    "UI components",
+    "design systems",
+    "open source",
+    "agent skills"
+   ],
+   "creator_handle": "@githubsignals",
+   "creator_name": "Github Signals",
+   "url": "https://www.instagram.com/reel/De8UoUAkURE/",
+   "posted_label": "October 25",
+   "added_at": "2026-10-26T23:03:47.494884+00:00",
+   "library_id": 791
   }
  ]
 }
