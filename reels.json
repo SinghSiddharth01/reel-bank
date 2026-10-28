@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 17,
- "generated_at": "2026-10-28T05:27:54.567460+00:00",
- "count": 791,
+ "version": 18,
+ "generated_at": "2026-10-28T23:35:33.115093+00:00",
+ "count": 792,
  "categories": [
   "AI tools",
   "Books",
@@ -12839,6 +12839,24 @@
    "posted_label": "October 27",
    "added_at": "2026-10-28T05:27:54.567460+00:00",
    "library_id": 792
+  },
+  {
+   "title": "Project IGI Trainyard AI Transformation HD Modern Look",
+   "summary": "Cyan Cat (@cyancatNP) reimagines Project I.G.I.: I'm Going In (2000) with AI and mods in this 23-second YouTube Short (posted Oct 12, 2026; 22,656 views and 553 likes when watched). The description reads: 'Project IGI - AI Reimagined with the help of mods. Realistic look on the various shots from the first mission Trainyard.' Structure is sequential, not a labeled side-by-side: it opens on the original low-poly Trainyard — the tall rusted water tower on its steel frame, low buildings, corrugated roof, pale hills — then cuts through realistic HD re-renders of the same locations: a close-up of the water tower in weathered, rust-streaked metal with a uniformed soldier holding a rifle on its railed walkway; a concrete guard post/bunker with a soldier inside, chain-link fencing and detailed grass; a low-angle tower shot against blue sky; and an open garage/workshop with a military truck, headlights on, in the doorway. It closes back on original-style graphics: a soldier on a wooden platform overlooking storage tanks and hills. All shots are cinematic location views — no HUD, crosshair or first-person gameplay. There is no narration, only a music track, and no on-screen credits or watermarks. Caveat: despite the title's 'AI Transformation', the video names no specific AI tool, model, mod or reshade preset — the description's 'AI Reimagined with the help of mods' is the only claim; comments asking about DLSS/reshade are viewers speculating, not the creator.",
+   "category": "Gaming",
+   "tags": [
+    "Project IGI",
+    "AI remaster",
+    "game mods",
+    "retro FPS",
+    "graphics transformation"
+   ],
+   "creator_handle": "@cyancatNP",
+   "creator_name": "Cyan Cat",
+   "url": "https://www.youtube.com/shorts/nLfjZPr4Dk4",
+   "posted_label": "October 12",
+   "added_at": "2026-10-28T23:35:33.115093+00:00",
+   "library_id": 793
   }
  ]
 }
