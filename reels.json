@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 16,
- "generated_at": "2026-10-26T23:03:47.494884+00:00",
- "count": 790,
+ "version": 17,
+ "generated_at": "2026-10-28T05:27:54.567460+00:00",
+ "count": 791,
  "categories": [
   "AI tools",
   "Books",
@@ -12820,6 +12820,25 @@
    "posted_label": "October 25",
    "added_at": "2026-10-26T23:03:47.494884+00:00",
    "library_id": 791
+  },
+  {
+   "title": "NVIDIA SimReady Assets: free simulation-ready 3D object collection on Hugging Face",
+   "summary": "Angel (@creativelyange) announces that Hugging Face has put NVIDIA's SimReady Assets collection online for free — per the reel, 472 GB of 'simulation-ready assets': over 3,000 3D objects with physics settings and semantic labels for use in simulated environments. The split-screen reel shows the Hugging Face dataset page 'nvidia/simready-assets' while she talks. Uses she lists: training robots to pick up and move objects, building virtual factories and warehouses, generating labeled training images, and populating 3D scenes with ready-made objects — aimed at robotics researchers, digital-twin builders and anyone creating detailed virtual environments, with healthcare, warehouses and robotics named as example industries. Her access route is engagement-gated: comment 'collection' and she'll send the link. Verification note: the dataset itself is public and ungated at huggingface.co/datasets/nvidia/simready-assets under CC-BY-4.0, so no comment is needed to reach it; the Hugging Face record shows it created June 29, 2026 and updated Oct 27, 2026, even though the reel frames it as just launched. The 472 GB / 3,000+ object figures are the creator's, not independently measured.",
+   "category": "AI tools",
+   "tags": [
+    "Hugging Face",
+    "NVIDIA SimReady",
+    "robotics",
+    "digital twins",
+    "3D assets",
+    "simulation"
+   ],
+   "creator_handle": "@creativelyange",
+   "creator_name": "Angel",
+   "url": "https://www.instagram.com/reel/DfAvtRBOYOB/",
+   "posted_label": "October 27",
+   "added_at": "2026-10-28T05:27:54.567460+00:00",
+   "library_id": 792
   }
  ]
 }
