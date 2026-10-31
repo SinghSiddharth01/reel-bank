@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 18,
- "generated_at": "2026-10-28T23:35:33.115093+00:00",
- "count": 792,
+ "version": 19,
+ "generated_at": "2026-10-31T20:47:27.362929+00:00",
+ "count": 793,
  "categories": [
   "AI tools",
   "Books",
@@ -12857,6 +12857,25 @@
    "posted_label": "October 12",
    "added_at": "2026-10-28T23:35:33.115093+00:00",
    "library_id": 793
+  },
+  {
+   "title": "Floorplan: open-source plugin that maps your vibecoded app in plain English",
+   "summary": "Hayden Smith (@haydenschmitty, 'Anti-Hype AI Educator' — his bio says he helps non-technical vibecoders make better apps) demos Floorplan, his own open-source tool; he closes by admitting 'ok ok I made it — but check it out. Link in bio.' Caption: 'Floorplan is an open source repo that helps nontechnical Vibecoders understand how their app actually works behind the scenes' (#claudecode #vibecoder #vibecoding #startuphacks #aicoding). The reel opens on the on-screen claim 'I ACTUALLY understand how my vibecoded app works now,' then shows the Floorplan site ('Fully open source btw'): hand it a code repository and it produces an interactive map explaining how everything works under the hood in plain English, with nodes like 'Main server,' 'Online shop,' and 'Business rules,' plus an Export feature to share code maps with investors or teams. Repo-verified detail (github.com/haydenschmitty/floorplan, MIT, created Oct 27, 2026; 662 stars, 46 forks, 19 releases at v0.6.0 when checked Oct 31, 2026): Claude or Codex reads your codebase and draws the map — every part, file and web request gets a plain-English name and every connection is shown, with frontend requests matched to the backend endpoints that answer them even across separate repos. It is a Claude Code / Codex plugin: install with 'claude plugin marketplace add haydenschmitty/floorplan' then 'claude plugin install floorplan@floorplan' (Codex equivalents in the README). Features: a map at every zoom (whole app down to a file and its endpoints); Start from a screen (pick a page, see everything behind it); Ask the map (a question like 'How does a refund reach the customer's card?' returns an answer plus a mini-map and step-by-step walkthrough); Health check for classic AI-built-app mistakes — keys in code or sent to the browser, Supabase tables anyone can read, open Firebase rules, Stripe webhooks anyone could fake, endpoints with no sign-in — each with a ready-to-paste fix ('A check, not an audit'); Recent work (parts your AI just changed light up, with a note on why); guided flows; Export as a single HTML file; and blueprints — the same map generated from a PRD/spec for an app you haven't built yet. Zero dependencies, Node 18+, everything runs on your own machine, no API keys (it runs on your existing Claude Code/Codex plan). The README positions it against Archify (polished diagrams for docs/talks) and Understand Anything (function-level knowledge graphs for large codebases): Floorplan is for understanding and checking an app you built. Reel stats when fetched: 732 likes, 17 comments.",
+   "category": "AI tools",
+   "tags": [
+    "floorplan",
+    "vibe-coding",
+    "claude-code",
+    "codebase-visualization",
+    "open-source",
+    "codex"
+   ],
+   "creator_handle": "@haydenschmitty",
+   "creator_name": "Hayden Smith",
+   "url": "https://www.instagram.com/reel/DfKC9sgoA6Z/",
+   "posted_label": "October 31",
+   "added_at": "2026-10-31T20:47:27.362929+00:00",
+   "library_id": 794
   }
  ]
 }
