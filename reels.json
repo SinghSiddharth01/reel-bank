@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 19,
- "generated_at": "2026-10-31T20:47:27.362929+00:00",
- "count": 793,
+ "version": 20,
+ "generated_at": "2026-11-02T22:56:10.492143+00:00",
+ "count": 794,
  "categories": [
   "AI tools",
   "Books",
@@ -12876,6 +12876,25 @@
    "posted_label": "October 31",
    "added_at": "2026-10-31T20:47:27.362929+00:00",
    "library_id": 794
+  },
+  {
+   "title": "Decant: reverse-engineer Apple's Liquid Glass icons back into editable source",
+   "summary": "@github_dev (a curator account spotlighting new open-source repos) presents Decant, a tool by Kyle Bshr (github.com/kylebshr/decant) that reverse-engineers Apple's Liquid Glass app icons back into fully editable source files. The reel is a screen recording scrolling the repo README while a voiceover reads the description. Caption's framing: Apple's Liquid Glass icons 'are actually locked away in a compiled format,' and decant taps private frameworks inside the iOS simulator to extract the raw vector SVGs, PNGs and complex material details — glass refraction, specular highlights, shadows — automatically calibrating values so they match Apple's originals, so you can study how the layered designs are built or open them in Icon Composer. Repo-verified detail (checked Nov 2, 2026: 131 stars, 3 forks, created Jun 10, 2026, no releases, no license file): decant targets the iOS/macOS 26+ .icon format; it reads the compiled icon straight out of an installed iOS Simulator runtime (or a mounted IPSW) using the private CoreUI framework, recovers every layer (vector SVG / raster PNG) and its full material treatment — blend mode, opacity, translucency, specular, shadow, blur, refraction, glass, per-appearance (light/dark/tinted) fills, layer transforms, canvas background — and reassembles a faithful icon.json + Assets/ folder that opens in Icon Composer. It was built by round-trip calibration: each rebuilt icon is recompiled and re-extracted and the values diffed against Apple's original until they match exactly; every export is verified by re-compiling with actool. Quick start: git clone, then ./decant exports ALL runtime icons to ./icons/, ./decant --list lists every extractable icon, ./decant Maps extracts just one app. Requirements: macOS with Xcode 26+ command-line tools (clang, actool, assetutil) and python3, plus an installed iOS 26+ simulator runtime — extraction runs inside the simulator via simctl spawn because iOS 26 added refraction and specular-placement fields an older host CoreUI can't report. Limits the README names: some apps are thinned out of the simulator (notably App Store and Podcasts) so their icons must come from an IPSW mounted with blacktop's ipsw tool (brew install blacktop/tap/ipsw) via --root; actool rejects icons with more than four visible groups yet Apple's own iCloud icon uses eight, so such icons export but are marked not validated by actool; refractivity.enabled is inferred and 3+-stop gradients are approximated (first+last), so two details are lossy. Legal/scope note in the README: uses Apple private frameworks (CoreUI, CoreSVG) for research and interop on your own machine; don't ship the compiled binaries and don't redistribute extracted Apple artwork — recreate your own.",
+   "category": "Tech & homelab",
+   "tags": [
+    "decant",
+    "liquid-glass",
+    "ios-icons",
+    "reverse-engineering",
+    "icon-composer",
+    "open-source"
+   ],
+   "creator_handle": "@github_dev",
+   "creator_name": "Github repo",
+   "url": "https://www.instagram.com/reel/DfQYlhoSfrC/",
+   "posted_label": "November 2",
+   "added_at": "2026-11-02T22:56:10.492143+00:00",
+   "library_id": 795
   }
  ]
 }
