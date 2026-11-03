@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 20,
- "generated_at": "2026-11-02T22:56:10.492143+00:00",
- "count": 794,
+ "version": 21,
+ "generated_at": "2026-11-03T21:57:32.606965+00:00",
+ "count": 795,
  "categories": [
   "AI tools",
   "Books",
@@ -12895,6 +12895,25 @@
    "posted_label": "November 2",
    "added_at": "2026-11-02T22:56:10.492143+00:00",
    "library_id": 795
+  },
+  {
+   "title": "Prompt to Product (Atech): vibecode hardware — AI generates the design, casing and firmware",
+   "summary": "Angel (@creativelyange) pitches 'vibecode your hardware with this platform': an open-source platform called Prompt to Product where you type out your idea and it automatically generates both the hardware design and the code for you. The demo playing above her shows a CAD interface with a small robot labeled 'ATECH' — the enclosure opens to reveal internal components including placement for an ESP32 board — and she notes the system provides the firmware and requires no soldering because the parts simply plug in. Her framing: it removes the traditional barriers of electronics and coding knowledge, making hardware creation accessible to anyone, especially non-technical people. Access is engagement-gated: comment 'hardware' and she'll send the link (972 comments against 1,893 likes when fetched, consistent with the gate doing the work). Identification verified Nov 3, 2026: the platform is Atech (atech.dev) — its site describes 'Atech AI CAD' as 'an open-source tool for Prompt-To-Product, with AI 3D CAD and custom casing around Atech modules,' based on FreeCAD. Atech's model: modular electronics 'as easy as LEGO' — no wiring, no soldering, a first build works in an afternoon; every Atech board has an ESP32-S3 inside, and the projects are open-source. The site also offers open-sourced digital twins of the modules for simulation (USD for NVIDIA Isaac Sim, MJCF for MuJoCo, URDF for ROS/Gazebo), docs on modules/boards/firmware/editor, and an ESP32 emulator that runs Atech firmware in the browser. Community pushback worth keeping: a commenter challenged the novelty, citing BuildWithFlux (@buildwithflux) and Zoo.dev (@zoo.dev) as prior similar solutions and calling the tool 'kind of dated'; another commenter reported the promised link message wasn't sending. Angel's reel itself names no site or URL — 'Prompt to Product' plus the on-screen ATECH label are the only identifiers given.",
+   "category": "AI tools",
+   "tags": [
+    "prompt-to-product",
+    "atech",
+    "vibe-coding",
+    "hardware",
+    "esp32",
+    "open-source"
+   ],
+   "creator_handle": "@creativelyange",
+   "creator_name": "Angel",
+   "url": "https://www.instagram.com/reel/DfRLKBcp0l8/",
+   "posted_label": "November 2",
+   "added_at": "2026-11-03T21:57:32.606965+00:00",
+   "library_id": 796
   }
  ]
 }
