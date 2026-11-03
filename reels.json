@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 22,
- "generated_at": "2026-11-03T22:35:46.592802+00:00",
- "count": 796,
+ "version": 23,
+ "generated_at": "2026-11-03T22:38:59.388665+00:00",
+ "count": 797,
  "categories": [
   "AI tools",
   "Books",
@@ -12933,6 +12933,24 @@
    "posted_label": "November 3",
    "added_at": "2026-11-03T22:35:46.592802+00:00",
    "library_id": 797
+  },
+  {
+   "title": "Best introduction to Russian literature: four short works to start with",
+   "summary": "Abdur Rehman (@ar_fables, Pakistan; his channel covers 'literature that has stood the test of time') makes his pitch in his caption: 'Russian literature is meant to be climbed, not jumped into.' On-screen text: 'Best introduction to Russian Literature.' Speaking in Urdu — he notes this is his first video in Urdu — in front of a bookshelf with framed portraits (Van Gogh, Einstein, Camus), he recommends four short Russian works as the entry point instead of starting with the long novels, Dostoevsky's Crime and Punishment or Tolstoy's War and Peace. His four, with his one-line takes: 1) Nikolai Gogol, 'The Overcoat' — which he calls the greatest Russian short story; 2) Leo Tolstoy, 'The Death of Ivan Ilyich' — a man facing death and seeing his whole life from a new perspective; 3) Fyodor Dostoevsky, 'The Dream of a Ridiculous Man' — a short story about a man contemplating suicide who comes to see humanity from a different angle; 4) Ivan Turgenev, 'First Love' — captures all the feelings associated with first love. Educational and calm in tone. Reel stats when fetched: 148 likes, 5 comments.",
+   "category": "Books",
+   "tags": [
+    "russian-literature",
+    "book-recommendations",
+    "short-stories",
+    "classics",
+    "urdu"
+   ],
+   "creator_handle": "@ar_fables",
+   "creator_name": "Abdur Rehman",
+   "url": "https://www.instagram.com/reel/DfReWWjRU_g/",
+   "posted_label": "November 3",
+   "added_at": "2026-11-03T22:38:59.388665+00:00",
+   "library_id": 798
   }
  ]
 }
