@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 24,
- "generated_at": "2026-11-03T23:30:17.350481+00:00",
- "count": 798,
+ "version": 25,
+ "generated_at": "2026-11-03T23:30:58.446083+00:00",
+ "count": 799,
  "categories": [
   "AI tools",
   "Books",
@@ -12970,6 +12970,25 @@
    "posted_label": "August 18",
    "added_at": "2026-11-03T23:30:17.350481+00:00",
    "library_id": 799
+  },
+  {
+   "title": "'The peak of cinematic taste came at the age of 10': four childhood films",
+   "summary": "A nostalgia montage from @kate.rrina__ ('starry night'; bio: Ukrainian cat in Austria). Caption: 'The peak of cinematic taste came at the age of 10.' She opens outdoors at golden hour under on-screen text '-What did you watch when you were a kid? -Well...' and answers with a rapid montage of clips from four films, each labeled with title and director: 1) The Fall (2006), Tarsem Singh — an elephant walking toward the Taj Mahal, vast desert mountains, figures in elaborate costume around a red cloth, a long line of people pulling a structure across a barren plain. 2) Equilibrium (2002), Kurt Wimmer — a sunlit ruined church interior, a futuristic white car in a tunnel, a minimalist room with a giant screen showing a face, close-ups of Christian Bale. 3) Kingdom of Heaven (2005), Ridley Scott — a knight in a chainmail helmet, armies on coastal cliffs, a night battle lit by fire, a lone figure in a wheat field at sunset, a shipwreck silhouette, riders at dusk. 4) Dreams (1990), Akira Kurosawa — groups in traditional Japanese robes on green hills, a painted field of flowers, a hooded figure mourning over bodies in snow, a soldier pointing into darkness, a Van Gogh-inspired bridge, figures around a glowing pink pool. Set to an atmospheric electronic track. Comment thread (329 comments, 40,203 likes when fetched): overwhelmingly positive and nostalgic — viewers affirming they loved the same films as kids, The Fall drawing the most praise ('the most beautiful movie I have ever seen'), Equilibrium fans citing its rewatch value and gun-kata scenes, commenters swapping their own childhood touchstones (Saving Private Ryan, Predator, etc.) and asking her to post what she watches now. Posted September 1, 2026.",
+   "category": "Movies",
+   "tags": [
+    "film",
+    "childhood-favorites",
+    "tarsem-singh",
+    "kurosawa",
+    "ridley-scott",
+    "cinematography"
+   ],
+   "creator_handle": "@kate.rrina__",
+   "creator_name": "starry night",
+   "url": "https://www.instagram.com/reel/DcwteTuNWXt/",
+   "posted_label": "September 1",
+   "added_at": "2026-11-03T23:30:58.446083+00:00",
+   "library_id": 800
   }
  ]
 }
