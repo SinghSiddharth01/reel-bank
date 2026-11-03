@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 23,
- "generated_at": "2026-11-03T22:38:59.388665+00:00",
- "count": 797,
+ "version": 24,
+ "generated_at": "2026-11-03T23:30:17.350481+00:00",
+ "count": 798,
  "categories": [
   "AI tools",
   "Books",
@@ -12951,6 +12951,25 @@
    "posted_label": "November 3",
    "added_at": "2026-11-03T22:38:59.388665+00:00",
    "library_id": 798
+  },
+  {
+   "title": "Thomas Bangalter calls The Color of Pomegranates 'the most beautiful film ever made'",
+   "summary": "Gazette.am (@gazette.am, Armenian culture account) shares a clip from Thomas Bangalter's Criterion Closet visit: the Daft Punk co-founder selected eight films that left a lasting impression on him, and one was Sergei Parajanov's 1969 The Color of Pomegranates, the landmark of Armenian cinema portraying the life and poetry of the 18th-century Armenian troubadour Sayat-Nova. In the clip, holding up the Criterion release in the closet, Bangalter calls it 'the most beautiful film ever made' and 'a real masterpiece,' praising its imagery, symbolism and poetic storytelling: 'Music for the eyes. Every shot is a poem.' He compares its dreamlike symbolism to a film adaptation of Carl Jung's Red Book — entering a world of medieval symbolism of Armenian troubadours — and declares 'Parajanov is a genius.' The reel's lower half runs iconic tableaux from the film: three pomegranates bleeding juice across green cloth, a woman in ornate headdress, figures in blue robes carrying books past a stone wall with ladders, women at looms, a boy in a red embroidered tunic beneath hanging yarn. Context from the caption: unlike a conventional biopic, the film tells Sayat-Nova's story almost entirely through composed tableaux, colors, gestures, objects and Armenian cultural symbolism; it faced Soviet censorship and Parajanov himself was persecuted and imprisoned; decades later it was restored with support from Martin Scorsese's Film Foundation and entered the Criterion Collection. Comment thread: overwhelmingly appreciative, many echoing 'music for the eyes'; viewers note Lady Gaga's '911' video referencing the film and Nicolas Jaar's soundtrack work; a recurring debate over whether Parajanov belongs to Armenian or Georgian tradition; practical questions about where to watch with subtitles. Reel stats when fetched: 29,816 likes, 130 comments. Posted August 18, 2026.",
+   "category": "Movies",
+   "tags": [
+    "film",
+    "criterion",
+    "parajanov",
+    "armenian-cinema",
+    "thomas-bangalter",
+    "arthouse"
+   ],
+   "creator_handle": "@gazette.am",
+   "creator_name": "Armenian culture, news and people",
+   "url": "https://www.instagram.com/reel/DcMDUeSiBrp/",
+   "posted_label": "August 18",
+   "added_at": "2026-11-03T23:30:17.350481+00:00",
+   "library_id": 799
   }
  ]
 }
