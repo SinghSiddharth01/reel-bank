@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 21,
- "generated_at": "2026-11-03T21:57:32.606965+00:00",
- "count": 795,
+ "version": 22,
+ "generated_at": "2026-11-03T22:35:46.592802+00:00",
+ "count": 796,
  "categories": [
   "AI tools",
   "Books",
@@ -12914,6 +12914,25 @@
    "posted_label": "November 2",
    "added_at": "2026-11-03T21:57:32.606965+00:00",
    "library_id": 796
+  },
+  {
+   "title": "Upgrade your esoteric knowledge for 2027: 15 books across five subjects",
+   "summary": "Errol Khrysaphoules (@errol.esoteric) stands in a garden and presents a reading list 'to improve the mind and spirit for 2027': three books each in five subjects, with the covers appearing above him as he points, under his repeated refrain 'Good, better, best.' The full list, as given in his caption: Sex Magick — The Holy Matrimony by Samael Aun Weor; The Tao of Sexology by Stephen T. Chang; Modern Sex Magick by Donald Michael Kraig (caption spells it 'Craig'). Freemasonry — Morals and Dogma by Albert Pike; Restorations of Masonic Geometry and Symbolry by Bromell; Ancient Mysteries and Modern Masonry by Jewell Lightfoot. Gnosticism — Introduction to Gnosis by Samael Aun Weor; Pistis Sophia (caption typos it 'Pistas Sophia'); The Gospel of Thomas. Depth Psychology — Beyond Good and Evil by Friedrich Nietzsche; King Warrior Magician Lover by Robert Moore and Douglas Gillette; Aion by Carl Jung. Philosophy — The Republic by Plato; Meditations by Marcus Aurelius; Phenomenology by Maurice Merleau-Ponty. Two places where the on-screen covers differ from the caption list: the Sex Magick cover shown is 'The Perfect Matrimony' (the actual English title of Samael Aun Weor's book, where the caption says 'The Holy Matrimony'), and the second Freemasonry cover shown reads 'Encyclopedia of Freemasonry' rather than the caption's Restorations of Masonic Geometry and Symbolry; the Philosophy cover shown is the full 'Phenomenology of Perception.' Tone is instructional and earnest; hashtags #esotericknowledge #occult #selfimprovement #books #goodbetterbest. Reel stats when fetched: 5,782 likes, 91 comments.",
+   "category": "Books",
+   "tags": [
+    "esoteric",
+    "occult",
+    "book-recommendations",
+    "freemasonry",
+    "gnosticism",
+    "philosophy"
+   ],
+   "creator_handle": "@errol.esoteric",
+   "creator_name": "Errol Khrysaphoules",
+   "url": "https://www.instagram.com/reel/DfSNzx5PyRF/",
+   "posted_label": "November 3",
+   "added_at": "2026-11-03T22:35:46.592802+00:00",
+   "library_id": 797
   }
  ]
 }
