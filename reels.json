@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 27,
- "generated_at": "2026-11-04T10:08:44.609426+00:00",
- "count": 801,
+ "version": 28,
+ "generated_at": "2026-11-04T18:04:07.779323+00:00",
+ "count": 802,
  "categories": [
   "AI tools",
   "Books",
@@ -13027,6 +13027,25 @@
    "posted_label": "November 2",
    "added_at": "2026-11-04T10:08:44.609426+00:00",
    "library_id": 802
+  },
+  {
+   "title": "Stack Diagram: describe your stack in one sentence, get an architecture diagram with official logos",
+   "summary": "Bibek Yadav (@aiwithbibek; his beat is free and open-source GitHub finds for devs and AI builders) presents Stack Diagram, a free agent skill: 'Describe your stack in one sentence, get an architecture diagram with official logos.' You describe it the way you'd say it out loud — his example: 'Next.js and a Hono API on Vercel, Postgres on Neon, auth with Clerk, payments with Stripe' — and that is the whole prompt; 'No dragging boxes.' It works with Claude Code, Codex, Cursor and other agents that support skills. Per his caption: logos are fetched from svgl, devicon and the brands' own sources, and AWS diagrams use AWS's own icons; lines are routed around labels so no arrow cuts through text; every diagram comes in light and dark; output is a self-contained HTML file, a PNG, or a React component. The catch, in his words: it needs Python 3.9+ and network access for the logos, and PNG export uses Playwright. Repo: github.com/caru-ini/stack-diagram. Verified against the repo Nov 4, 2026 (MIT license; created 2026-11-01; 1,730 stars, 75 forks, 4 releases, 29 commits when checked — days old and moving fast): install with 'npx skills add caru-ini/stack-diagram', or in the Claude apps upload stack-diagram.zip from Releases as a skill. README details beyond the caption: logo lookup order is svgl, then devicon, then gilbarbara/logos, then the brand's own repository, with AWS, Google Cloud and Azure icons coming from each vendor's own package and never recolored or redrawn; the HTML inlines fonts and logos so it renders anywhere without a network; the React component is dependency-free; the agent renders the diagram and checks it before handing it over. It is not cloud-only: the README's examples include a monorepo-tooling diagram (pnpm workspace, Turborepo, Biome, Vitest, Lefthook, GitHub Actions to npm) and an AI-docs-chatbot diagram (Next.js on Vercel, Supabase pgvector, Claude, Inngest syncing Notion nightly), plus AWS/GCP/Azure layouts with subnet and VPC structure. After drawing, the agent offers once to post the diagram to the public gallery at stacks.caru.moe, showing exactly what would be public (light and dark PNGs, English title, tech stack, display name) and posting only after you confirm twice; your prompt is never sent. Reel stats when fetched: 799 likes, 12 comments. Note: the reel's stored media analysis was empty, so this summary rests on the caption plus direct repo verification.",
+   "category": "AI tools",
+   "tags": [
+    "agent-skills",
+    "architecture-diagram",
+    "claude-code",
+    "open-source",
+    "developer-tools",
+    "stack-diagram"
+   ],
+   "creator_handle": "@aiwithbibek",
+   "creator_name": "Bibek yadav",
+   "url": "https://www.instagram.com/reel/DfRPWLOkZm-/",
+   "posted_label": "November 2",
+   "added_at": "2026-11-04T18:04:07.779323+00:00",
+   "library_id": 803
   }
  ]
 }
