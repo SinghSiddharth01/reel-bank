@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 26,
- "generated_at": "2026-11-04T10:07:52.197981+00:00",
- "count": 800,
+ "version": 27,
+ "generated_at": "2026-11-04T10:08:44.609426+00:00",
+ "count": 801,
  "categories": [
   "AI tools",
   "Books",
@@ -13008,6 +13008,25 @@
    "posted_label": "November 2",
    "added_at": "2026-11-04T10:07:52.197981+00:00",
    "library_id": 801
+  },
+  {
+   "title": "Spelunkr TV: go back in time and watch 90s cable TV again, free in your browser",
+   "summary": "Treehouse Detective (@treehousedetective) presents Spelunkr TV under the caption 'You can go back in time and watch cable tv in the 90s again.' His description: a completely free, browser-based recreation of the 1990s cable TV experience — about 33 channels behind a classic TV-guide interface, broadcasting continuously so you cannot choose what plays, just like old cable; the appeal is the passive 'sit back and watch whatever is on' feeling. Channels he names: Saturday morning cartoons; a G4-style gaming channel running non-stop broadcasts; an Adult Swim channel with early-2000s programming; and three separate horror channels airing old broadcasts like Elvira's Movie Macabre and MonsterVision. Crucially, the original commercials from the era are included, which he says adds to the nostalgia. The content comes from the Internet Archive, the nonprofit that has digitized millions of VHS tapes donated by the public. There is also a live chat so viewers can comment together while watching. He states plainly he is not affiliated with the project and invites viewers to try it and share which shows they watched. Verification Nov 4, 2026: the site is spelunkr.tv, tagline 'Like cable, but weirder' — '24/7 synchronized channels of forgotten Internet Archive video,' so everyone lands mid-program at the same moment like real broadcast. The domain was only registered Oct 3, 2026, so the ~33-channel count is his current figure; write-ups from late October (reality blurred newsletter, kblip, MST3K forums) put the lineup at 24-25 themed channels (including an all-Star-Trek channel) streaming roughly 2,700 hours of Internet Archive video, and kblip notes it was built over about 8 months with heavy AI-assisted development. Comment thread (1,188 comments, 80,643 likes when fetched): warm and communal — excitement over Saturday morning cartoons, Toonami, G4's Attack of the Show and especially the period commercials; many contrasting scheduled TV's simplicity with today's choice overload and Netflix price hikes; a substantial thread on legality and credit to Marion Stokes, the Philadelphia woman who recorded hundreds of thousands of hours of television now held via the Internet Archive, debating fair use vs public domain; comparisons to Pluto TV, Samsung TV Plus and myretrotvs.com; minor grumbles that real 90s TV had no live chat.",
+   "category": "Movies",
+   "tags": [
+    "retro-tv",
+    "nostalgia",
+    "90s",
+    "internet-archive",
+    "streaming",
+    "cable-tv"
+   ],
+   "creator_handle": "@treehousedetective",
+   "creator_name": "Treehouse Detective",
+   "url": "https://www.instagram.com/reel/DfQvm5Kq6nr/",
+   "posted_label": "November 2",
+   "added_at": "2026-11-04T10:08:44.609426+00:00",
+   "library_id": 802
   }
  ]
 }
