@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 25,
- "generated_at": "2026-11-03T23:30:58.446083+00:00",
- "count": 799,
+ "version": 26,
+ "generated_at": "2026-11-04T10:07:52.197981+00:00",
+ "count": 800,
  "categories": [
   "AI tools",
   "Books",
@@ -12989,6 +12989,25 @@
    "posted_label": "September 1",
    "added_at": "2026-11-03T23:30:58.446083+00:00",
    "library_id": 800
+  },
+  {
+   "title": "'Stop prompting your agents': DeepSeek's Super-agent design, explained",
+   "summary": "Sukhad Anand (@techie007.dev, senior software engineer) walks through a DeepSeek Harness article under the caption 'Stop prompting your agents.' The article: 'Exploring Super-agent Design: Towards a More Autonomous Agent System,' published by DeepSeek Harness on November 1, 2026 — he notes it is a machine translation of a Chinese original and covers architectural ideas rather than existing product features. The concept is a 'super-agent' designed to reduce manual prompting: a system that picks up work and continues autonomously instead of waiting to be driven session by session. He shows the article's architecture diagram, whose components are: Event Triggers, Two-Stage Filter, Router Layer, Worker Sessions, Session Database, Interaction Channels, Environments, and Watchdog. Verified against the article and coverage of it on Nov 4, 2026 (original on X, @deepseekharness; implementer/writer credited as Yujia Qiao of the DeepSeek Harness team): the core argument is that the bottleneck shifts from model capability to human attention — users can typically track only 3-5 active sessions, and single-session agents suffer synchronous blocking, fragmented multi-task context, and shutdown when the local device goes offline. The proposed Super-agent is one continuous entity spanning sessions, advancing multiple tasks concurrently without interference, with four traits: continuous, efficient, proactive, persistent. Its five modules: (1) a two-layer architecture — a resident Router layer handling human interaction, global coordination and memory on a lighter model (batching queued triggers), while context-isolated Worker sessions execute in parallel with the strongest models and report back through the Router, so sessions become an implementation detail rather than a user burden; (2) event-driven operation over semi-structured environment events; (3) human-oriented, full-duplex multi-channel interaction; (4) separation of computation, state and environment — the agent loop runs in stateless cloud containers with session state in a database; (5) a Watchdog for cross-device persistent online operation and anomaly self-healing. DeepSeek's internal instance, running on DeepSeek Harness, advances the same development task across IM and GitHub and watches public group-chat feedback, proactively locating root causes and submitting fix PRs without being @-mentioned; the article says the asynchronous task mechanism is implemented in Harness but not enabled by default. Parts of the design are implemented in the open-source dsh-superagent-prototype (github.com/deepseek-ai/dsh-superagent-prototype, MIT) — explicitly a research prototype, not an official DeepSeek product. Reel comments: appreciation for his regular updates, questions on how to stay current with AI news (he recommends X with dedicated AI tabs and his reels), some overwhelm at the pace of change and cost-efficiency questions. Reel stats when fetched: 1,803 likes, 282 comments.",
+   "category": "AI tools",
+   "tags": [
+    "ai-agents",
+    "deepseek",
+    "super-agent",
+    "multi-agent",
+    "agent-architecture",
+    "autonomy"
+   ],
+   "creator_handle": "@techie007.dev",
+   "creator_name": "Sukhad Anand",
+   "url": "https://www.instagram.com/reel/DfRUlnCMWNg/",
+   "posted_label": "November 2",
+   "added_at": "2026-11-04T10:07:52.197981+00:00",
+   "library_id": 801
   }
  ]
 }
