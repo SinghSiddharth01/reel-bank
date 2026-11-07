@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 28,
- "generated_at": "2026-11-04T18:04:07.779323+00:00",
- "count": 802,
+ "version": 29,
+ "generated_at": "2026-11-07T11:26:19.096162+00:00",
+ "count": 803,
  "categories": [
   "AI tools",
   "Books",
@@ -13046,6 +13046,25 @@
    "posted_label": "November 2",
    "added_at": "2026-11-04T18:04:07.779323+00:00",
    "library_id": 803
+  },
+  {
+   "title": "Free art with personality: museum open access + free photography sites (Designer Guide pt. 7)",
+   "summary": "Interior designer Jenna Kshatri (Mojo and Muse Studio, Pittsburgh) shares where designers find free artwork 'rich with personality' — part 7 of her designer-guide series, the free edition. Two resource categories: (1) Museum Open Access — institutions such as the Met and the Art Institute of Chicago offer public-domain/CC0 images for unrestricted use; she puts the number of participating museums at about 25 worldwide, with works by artists such as Monet and Van Gogh available at print quality. (2) Free photography — five sites she recommends for wall-worthy images: Unsplash, Pexels, Pixabay, Kaboompics, and Life of Pix; her advice is to skip obvious-looking stock photos in favor of more curated images. To finish the piece she recommends professional printing/framing services Frame It Easy (she has a discount code in her bio) and Mpix. The resource links themselves are DM-gated behind commenting 'Art' (1,661 comments against 6,593 likes when fetched), but every resource name is spoken in the reel. Comments are overwhelmingly link requests; one commenter adds NASA's free imagery as another source, and Kaboompics' own account showed up approvingly.",
+   "category": "Home finds",
+   "tags": [
+    "free-art",
+    "interior-design",
+    "wall-art",
+    "museum-open-access",
+    "free-photography",
+    "printing"
+   ],
+   "creator_handle": "@jennakshatri.studio",
+   "creator_name": "Jenna Kshatri",
+   "url": "https://www.instagram.com/reel/DcgqyyKBsPB/",
+   "posted_label": "August 26",
+   "added_at": "2026-11-07T11:26:19.096162+00:00",
+   "library_id": 804
   }
  ]
 }
