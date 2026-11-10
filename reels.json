@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 33,
- "generated_at": "2026-11-10T20:00:58.846079+00:00",
- "count": 807,
+ "version": 34,
+ "generated_at": "2026-11-10T20:24:11.063632+00:00",
+ "count": 808,
  "categories": [
   "AI tools",
   "Books",
@@ -13141,6 +13141,24 @@
    "posted_label": "November 10",
    "added_at": "2026-11-10T20:00:58.846079+00:00",
    "library_id": 808
+  },
+  {
+   "title": "Forgot everything about video editing? The 3 videos this editor would re-learn from",
+   "summary": "Harshvardhan Sharma (@andcutit; video editor - 'I can make anything look good,' documentaries/ads/social content) sets up a hypothetical: if he woke up one day having forgotten everything he knows about video editing, he would do exactly three things - study three specific YouTube videos. The reel opens with a Spider-Man: No Way Home clip (MJ forgetting Peter) as the metaphor. His three picks, in order: (1) 'How to Create Content No One Else Can' by Under the Radar (Nikola, of the Under the Radar agency) - with his pro tip that the creator was the lead editor for Iman Gadzhi; (2) 'Struggling With Ideas? Watch This Before You Start Editing in 2026' by Ritu Solanki; (3) 'How to generate the most Creative ideas (even if you're not creative)' by Nextcore, which he calls an 'absolute gold mine.' He closes by promising viewers will thank him after watching all three. The caption thanks Nikola from Under the Radar agency, Ritu Solanki (@ritu.solankiii), and Nextcore for covering 'creativity, tips, ideas, guidelines, foundations, and everything that is an aspect of video editing or designing.' Verified: the Under the Radar video exists on YouTube under that exact title (agency: undertheradar.agency); the Nextcore video also checks out (published March 2025) - its method is 'idea stacking': creativity is not talent but combining old ideas in new ways, via three steps - absorb relentlessly (but start creating, don't just consume), write down every interesting idea regardless of domain, then deliberately hunt for unexpected connections between them. The Ritu Solanki video could not be independently confirmed beyond the reel itself. Note the emphasis across all three picks: they are about creativity and ideation, not software technique - his rebuild-from-zero curriculum is foundations of generating ideas, not button-pushing. Set to Bad Bunny's 'NUEVAYoL.' Reel stats when fetched: 57,044 likes, 224 comments.",
+   "category": "Photography & video",
+   "tags": [
+    "video-editing",
+    "creativity",
+    "youtube-recommendations",
+    "content-creation",
+    "idea-generation"
+   ],
+   "creator_handle": "@andcutit",
+   "creator_name": "Harshvardhan Sharma",
+   "url": "https://www.instagram.com/reel/DcJH1Gwy_QL/",
+   "posted_label": "August 17",
+   "added_at": "2026-11-10T20:24:11.063632+00:00",
+   "library_id": 809
   }
  ]
 }
