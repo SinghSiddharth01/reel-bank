@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 34,
- "generated_at": "2026-11-10T20:24:11.063632+00:00",
- "count": 808,
+ "version": 35,
+ "generated_at": "2026-11-10T20:33:59.568772+00:00",
+ "count": 809,
  "categories": [
   "AI tools",
   "Books",
@@ -13159,6 +13159,25 @@
    "posted_label": "August 17",
    "added_at": "2026-11-10T20:24:11.063632+00:00",
    "library_id": 809
+  },
+  {
+   "title": "Rust Cohle's (imaginary) top 5 albums: a True Detective fan countdown",
+   "summary": "Mookie (@mookiesupreme; Dallas-based film/music poster) posts in the fake-nostalgia format: 'Who else remembers the Rust Cohle favorite albums deleted scene from True Detective S1?' There is no such scene - the reel is a fan-theory countdown imagining what Matthew McConaughey's Rustin Cohle would name as his top 5 albums of all time, each pick argued from Cohle's philosophy and trauma, with album art, show clips, and quote overlays. His countdown, #5 to #1: #5 Swans, 'Soundtracks for the Blind' (1996) - matched to Rust's bleak worldview. #4 Captain Beefheart, 'Safe as Milk' (1967) - tied to Rust's love story, via the line 'Nothing meant a thing till love knocked on my door.' #3 Glenn Branca, 'The Ascension' (1981) - tied to the psychological elements of the cases. #2 Ween gets a double slot: 'The Pod' (1991) and 'Pure Guava' (1992) - connected to Rust's talk of influencing his environment and the laws of man. #1 Xiu Xiu, 'A Promise' (2003) - 'a tortured song for a tortured man,' spotlighting the track 'Apistat Commander.' The reel's own audio mix uses The Handsome Family's 'Far From Any Road' (the actual True Detective S1 theme), Ween's 'Oh My Dear (Falling in Love),' and Xiu Xiu's 'Apistat Commander,' closing with a moody montage of show imagery. Verification: True Detective S1's real deleted scenes are documented and neither is this - the widely released one (March 2014) is Rust's breakup with Laurie, and the Blu-ray's deleted scene is an extended sermon from episode 3; no albums scene exists. One pick is accidentally well-grounded, though: in the show itself, composer T Bone Burnett has Rust listening to Captain Beefheart (Clear Spot) alone in his room. Reel stats when fetched: 32,595 likes, 448 comments.",
+   "category": "Music",
+   "tags": [
+    "true-detective",
+    "rust-cohle",
+    "album-list",
+    "swans",
+    "xiu-xiu",
+    "ween"
+   ],
+   "creator_handle": "@mookiesupreme",
+   "creator_name": "Mookie",
+   "url": "https://www.instagram.com/reel/DdeYPXLBwEl/",
+   "posted_label": "September 19",
+   "added_at": "2026-11-10T20:33:59.568772+00:00",
+   "library_id": 810
   }
  ]
 }
