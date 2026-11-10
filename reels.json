@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 30,
- "generated_at": "2026-11-10T17:23:59.708723+00:00",
- "count": 804,
+ "version": 31,
+ "generated_at": "2026-11-10T17:26:18.162484+00:00",
+ "count": 805,
  "categories": [
   "AI tools",
   "Books",
@@ -13084,6 +13084,25 @@
    "posted_label": "November 9",
    "added_at": "2026-11-10T17:23:59.708723+00:00",
    "library_id": 805
+  },
+  {
+   "title": "Moving out of San Diego: a no-gatekeeping farewell tour of a local's favorite spots",
+   "summary": "Milind Kankipati (@mk.vlogsss; pre-med, UCSD alum, based Miami x San Diego) posts a goodbye montage - 'Visiting all my favorite SD spots 1 last time before I move out' - thanking the local businesses that helped him over the last 4 years, with a promise of 'NO GATEKEEPING.' Framed as POV 'You are moving out of San Diego,' he narrates 'This is my last time at...' over each stop, holding a small mic, set to Linkin Park's 'One More Light (Instrumental).' The full route, in the order shown: Just Bananas and Veggy Jess at the Leucadia Farmers Market (Encinitas); An's Gelato, North Park; the San Diego County Fair at Del Mar Fairgrounds; Juice Wave, Mission Beach; La Jolla Cove; Blue Bowl on the UCSD campus; Mission Bay; Balboa Park; Regents Pizzeria, University City/La Jolla (he appears in graduation regalia); the Coronado Bridge from San Diego Bay; Enoteca Adriano, Pacific Beach; Petco Park; ASA Bakery, downtown; Panchita's Bakery (and a second bakery stop), Barrio Logan; Cardiff-by-the-Sea beach; Cardiff Seaside Market; Stadium Golf Center & Batting Cages, Serra Mesa; Square Pizza, Pacific Beach; Din Tai Fung at Westfield UTC; Brite's Soft Serve, Pacific Beach; back to the Leucadia Farmers Market; Grandview Beach steps, Encinitas; Izola Bakery, downtown; Hinar, downtown; Don Carlos Taco Shop at La Jolla Cove; In-N-Out Burger, Midway District; Lovesong Coffee, North Park; Liberty Station / Public Market, Point Loma; and finally the UC San Diego campus in La Jolla. Caption also tags Tacos El Trompo (@tacos_el_trompo) among the thanked businesses. Tone is nostalgic throughout - 'San Diego will always be my favorite city.' Reel stats when fetched: 215 likes, 2 comments. Useful as a resident's-eye San Diego list: heavily weighted to bakeries and casual food (ASA, Izola, Panchita's), Pacific Beach and North Park staples, and North County farmers-market stops, rather than tourist headliners.",
+   "category": "Travel",
+   "tags": [
+    "san-diego",
+    "local-guide",
+    "food-spots",
+    "farewell",
+    "ucsd",
+    "hidden-gems"
+   ],
+   "creator_handle": "@mk.vlogsss",
+   "creator_name": "Milind Kankipati",
+   "url": "https://www.instagram.com/reel/DfjECpKuck2/",
+   "posted_label": "November 9",
+   "added_at": "2026-11-10T17:26:18.162484+00:00",
+   "library_id": 806
   }
  ]
 }
