@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 35,
- "generated_at": "2026-11-10T20:33:59.568772+00:00",
- "count": 809,
+ "version": 36,
+ "generated_at": "2026-11-10T21:17:02.068943+00:00",
+ "count": 810,
  "categories": [
   "AI tools",
   "Books",
@@ -13178,6 +13178,25 @@
    "posted_label": "September 19",
    "added_at": "2026-11-10T20:33:59.568772+00:00",
    "library_id": 810
+  },
+  {
+   "title": "Trip hop, explained: Bristol, the Wild Bunch, and the albums to start with",
+   "summary": "A genre explainer from @_._._cice_._._ (display name 'god is a woman; me'), part of her series on actually feeling music - 'without using AI to describe that feeling.' Today's subject: trip hop. Her hook: you know this sound, and after one song from the big acts you'd ask why it's 'so unusually attractive and sexy.' The genre's most popular bands, per the reel: Portishead, Massive Attack, and Morcheeba. Her history: Bristol in the 1980s was full of DJ collectives and clubs, and out of the ashes of the Wild Bunch - the most famous collective - Massive Attack was born; on April 8, 1991 they debuted with their first album, Blue Lines. Three years later, in 1994, a journalist writing for Mixmag gave the sound its name - trip hop - for its slow downbeats, melancholic and haunting vocals, and a psychedelic pull that leaves you changed after one listen. She closes by presenting the albums to listen to if you really want to understand trip hop - shown, not spoken, via Spotify screen recordings at the end: Massive Attack's Blue Lines and Mezzanine (the player shows 'Angel,' feat. Horace Andy, which is also the reel's listed audio track). The history checks out against the standard record: Massive Attack did form out of Bristol's Wild Bunch sound-system scene, Blue Lines was released 8 April 1991, and 'trip hop' is commonly credited to Mixmag journalist Andy Pemberton in 1994 (his name was not legible in the reel itself, so that attribution is outside knowledge, flagged here). The video is a talking-head piece with big single-word captions flashing in time with her speech. Caption is minimal: 'Like and comment for more!' Reel stats when read: 217,771 likes, 507 comments - a viral outlier. NOTE on sourcing: the Instagram connector returned only a skeleton record for this reel (no caption/author/media ID) on two attempts, so the content above was read by viewing the reel directly in the browser; spoken lines are close paraphrases from that viewing, not a stored transcript.",
+   "category": "Music",
+   "tags": [
+    "trip-hop",
+    "massive-attack",
+    "portishead",
+    "music-history",
+    "bristol",
+    "album-recommendations"
+   ],
+   "creator_handle": "@_._._cice_._._",
+   "creator_name": "god is a woman; me",
+   "url": "https://www.instagram.com/reel/DeRP1MhMslC/",
+   "posted_label": "October 9",
+   "added_at": "2026-11-10T21:17:02.068943+00:00",
+   "library_id": 811
   }
  ]
 }
