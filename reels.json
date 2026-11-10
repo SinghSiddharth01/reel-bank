@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 29,
- "generated_at": "2026-11-07T11:26:19.096162+00:00",
- "count": 803,
+ "version": 30,
+ "generated_at": "2026-11-10T17:23:59.708723+00:00",
+ "count": 804,
  "categories": [
   "AI tools",
   "Books",
@@ -13065,6 +13065,25 @@
    "posted_label": "August 26",
    "added_at": "2026-11-07T11:26:19.096162+00:00",
    "library_id": 804
+  },
+  {
+   "title": "This Echo will never talk to Amazon again: echo-dot-assist turns old Echos into local Home Assistant voice satellites",
+   "summary": "709 Lab (@709lab; presenter 'mr.y', 12 years in deep tech and hardware) demos echo-dot-assist, an open-source project that cuts an Amazon Echo off from Amazon's cloud entirely and gives it a local brain. His framing: every Alexa request normally goes up to Amazon's servers, across what he puts at over half a billion Alexa devices sold. The project uses a known flaw in the Echo's MediaTek chip to replace Alexa's software; a firewall on the speaker blocks Amazon's cloud, while wake-word detection still runs on the Echo itself. After the wake word, your voice goes to a computer in your own house: Whisper writes it down (speech-to-text), the open-source AI agent Hermes answers (his example: 'hey Hermes, plan my Saturday'), and Piper reads the reply out loud - the full round trip in about three seconds. Its memory is just plain text files (e.g. MEMORY.MD) on your own machine. Tagline: 'Same speaker. Same light ring. Different owner.' Devices he names as working: Echo Dot 2 and 3, Echo 2, and Echo Show 5 and 8. Verified against the repo (github.com/Gamer92000/echo-dot-assist, MIT, created 2026-09-21, ~907 stars when checked 2026-11-10): it turns the Echo into a Home Assistant voice satellite - the Echo keeps Amazon's microphone processing and wake-word engine, and Alexa is replaced by hassmic, a small C daemon Home Assistant discovers as an ESPHome device (or a Wyoming satellite); multiroom music via Music Assistant, plus Bluetooth speaker/proxy, no cloud. The way in is R0rt1z2's MediaTek unlock work (amonet/kamakiri/saiyaku exploits, kaeru bootloader payload, TWRP ports). Supported models are narrow and firmware-exact: the confirmed list centers on Echo Dot 3rd gen 2018 (model D9N29T, codename donut, Fire OS 6574.1 only; open the case, wires on test pads) and Echo Dot 2nd gen 2016 (RS03QR, biscuit; micro-USB, no soldering), plus Echo 2; Show support landed Oct 27 and was still beta in early-November write-ups; the 2019-2020 Dot 3 refresh (C78MP8) and Dot-with-clock (36EBT3) are NOT supported, and Dot 4th/5th gen and Echo Pop have no known exploit. The README's own caution: 'Vibecoded, unaudited, your risk' - code and docs written by an AI (Claude) in conversation with the author, tried on one Echo of each model; the install unlocks the bootloader and writes the system partition, so it can brick the Echo, and a firewall or update mistake could leave it online or open on your network. Hermes reaches the Echo via a community Home Assistant integration (ericgla's), per a Nov 6 comparison of the six Echo-liberation projects (EchoMuse, Kiosk Satellite, EchoLocal, LibreEcho, TECHO5, echo-dot-assist).",
+   "category": "Tech & homelab",
+   "tags": [
+    "echo-dot-assist",
+    "amazon-echo",
+    "home-assistant",
+    "self-hosted",
+    "privacy",
+    "local-ai"
+   ],
+   "creator_handle": "@709lab",
+   "creator_name": "709 Lab",
+   "url": "https://www.instagram.com/reel/Dfi3_tMAv6v/",
+   "posted_label": "November 9",
+   "added_at": "2026-11-10T17:23:59.708723+00:00",
+   "library_id": 805
   }
  ]
 }
