@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 32,
- "generated_at": "2026-11-10T20:00:18.329099+00:00",
- "count": 806,
+ "version": 33,
+ "generated_at": "2026-11-10T20:00:58.846079+00:00",
+ "count": 807,
  "categories": [
   "AI tools",
   "Books",
@@ -13122,6 +13122,25 @@
    "posted_label": "November 9",
    "added_at": "2026-11-10T20:00:18.329099+00:00",
    "library_id": 807
+  },
+  {
+   "title": "Jane Street open-sourced a strict Socratic tutor skill for AI agents",
+   "summary": "AI Adventurer (@aiadventureryt) announces that Jane Street - 'one of the biggest trading firms' - has open-sourced a free, strict AI tutor: a skill called Socratic Tutor from the GitHub repo janestreet/agent_skills. Say 'teach me' plus any topic (his examples: statistics, Python, options trading) and the model becomes a tutor that (1) quizzes you first with a diagnostic to find your level; (2) builds a skill map with every subtopic scored 0 to 5, shown with progress bars; (3) asks one question at a time; (4) never hands you the answer when you're wrong - it asks a sharper question until you spot the mistake yourself; (5) only raises your level after you prove mastery twice; (6) re-tests old topics without warning (spaced review); and (7) makes you pass a final mixed exam on everything before you're done. His emphasis: 'No flattery. No \"great try!\"' Works in Claude Code (git clone / copy the skill directory in), or in ChatGPT, Gemini, or Claude by pasting the SKILL.md. Link comment-gated behind 'TUTOR.' Verified against the repo (GitHub API, checked 2026-11-10): janestreet/agent_skills is real - created 2026-11-03, MIT license, 3,564 stars and 202 forks when checked (passed 1,000 stars in its first week). It is Jane Street's first public skill collection and currently ships exactly one skill, socratic-tutor. It is a prompt/instruction package, not software: the SKILL.md tells the model to 'teach primarily by asking questions that force the user to reason, predict, and explain - not by lecturing' (Socratic/maieutic method). Trigger phrases: 'teach me', 'tutor me', 'quiz me', 'drill me', 'help me master'; a 'Guard: confirm intent before starting' section keeps one-off questions from starting a session. Dealroom's read: a public glimpse of how Jane Street shapes agent behavior - strict, structured, question-led - and explicitly not a trading tool. The reel's comment thread was skeptical (one viewer: 'AI slop'). Reel stats when fetched: 542 likes, 244 comments.",
+   "category": "AI tools",
+   "tags": [
+    "socratic-tutor",
+    "jane-street",
+    "agent-skills",
+    "claude-code",
+    "learning",
+    "skill-md"
+   ],
+   "creator_handle": "@aiadventureryt",
+   "creator_name": "AI Adventurer",
+   "url": "https://www.instagram.com/reel/Dfjk30VPJZE/",
+   "posted_label": "November 10",
+   "added_at": "2026-11-10T20:00:58.846079+00:00",
+   "library_id": 808
   }
  ]
 }
