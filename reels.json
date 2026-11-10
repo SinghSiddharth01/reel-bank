@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 31,
- "generated_at": "2026-11-10T17:26:18.162484+00:00",
- "count": 805,
+ "version": 32,
+ "generated_at": "2026-11-10T20:00:18.329099+00:00",
+ "count": 806,
  "categories": [
   "AI tools",
   "Books",
@@ -13103,6 +13103,25 @@
    "posted_label": "November 9",
    "added_at": "2026-11-10T17:26:18.162484+00:00",
    "library_id": 806
+  },
+  {
+   "title": "OpenPrinter: the open-source, repairable inkjet with no cartridge DRM",
+   "summary": "Archie Auburn (@archieauburn; 19-year-old international computer engineering student, 3x hackathon winner) spotlights OpenPrinter, framing it with Marques Brownlee's old complaint that printers are among the most infuriating tech products and the industry desperately needs innovation - 'this is the closest we've come to it so far.' His pitch: fully repairable and user-assembled, against the industry model of expensive ink and subscription lock-ins. The reel shows exploded-view diagrams, hands assembling the device with screws, and the project website listing 'No DRM, No locks,' 'Free to refill ink,' '100% private data,' and Raspberry Pi Zero W compatibility. He singles out the transparent casing - like a clear iPod - and notes it is a French project; links are comment-gated behind 'Print.' Verified against project coverage (Hackster, MakeUseOf, Notebookcheck): OpenPrinter is by Paris-based Open Tools (lead mechanical engineer Leonard Hartmann, with Nicolas Schurando and Laurent Berthuel; backing from Bpifrance and design school ENSCI). Brain: Raspberry Pi Zero W + STM32 microcontroller on the cartridge board, small screen and jog wheel, prints through CUPS (no proprietary driver). The ink trick is simple: off-the-shelf HP cartridges with the printhead built in - HP 63 (US), HP 302 (Europe), HP 803 (Asia) - refillable or third-party, and the firmware simply never checks for a DRM/authentication signature. Black and color run independently, so an empty color cartridge doesn't block black-and-white jobs. Reported specs: up to 1,200 DPI, Wi-Fi 5, Bluetooth, USB-C, Windows/macOS/Android/iOS via CUPS, A4/A3 sheets plus continuous paper rolls up to 11 inches wide with an automatic cutter. All design files (electronics, mechanics, firmware) are published under Creative Commons BY-NC-SA 4.0 - the catch: the NonCommercial clause means third parties can't manufacture and sell it without Open Tools' permission, so critics call it source-available rather than true open-source hardware, and the team reportedly also filed a patent on the design. Status: a working prototype (first pages printed mid-2026), NOT buyable - Crowd Supply campaign page exists for notifications but the campaign has not launched; no price, ship date, or confirmed print speed. It also still depends on HP continuing to sell refillable cartridges. Reel stats when fetched: 1,038 likes, 20 comments.",
+   "category": "Tech & homelab",
+   "tags": [
+    "openprinter",
+    "open-source-hardware",
+    "right-to-repair",
+    "raspberry-pi",
+    "printers",
+    "drm-free"
+   ],
+   "creator_handle": "@archieauburn",
+   "creator_name": "Archie Auburn",
+   "url": "https://www.instagram.com/reel/DfidERDqvfP/",
+   "posted_label": "November 9",
+   "added_at": "2026-11-10T20:00:18.329099+00:00",
+   "library_id": 807
   }
  ]
 }
