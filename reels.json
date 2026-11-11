@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 37,
- "generated_at": "2026-11-11T17:07:24.693914+00:00",
- "count": 811,
+ "version": 38,
+ "generated_at": "2026-11-11T17:12:44.340572+00:00",
+ "count": 812,
  "categories": [
   "AI tools",
   "Books",
@@ -13216,6 +13216,25 @@
    "posted_label": "November 10",
    "added_at": "2026-11-11T17:07:24.693914+00:00",
    "library_id": 812
+  },
+  {
+   "title": "Five San Diego restaurants on OpenTable's Top 100 in America 2026: Callie, Cesarina, Cowboy Star, LEILA, Lilo",
+   "summary": "San Diego realtor Matt Thornberg (@matt.thornberg) counts down the five San Diego County restaurants that made OpenTable's Top 100 Restaurants in America for 2026, released Nov 4, 2026 and generated from 11M+ verified diner reviews plus reservation metrics (data window Sep 1, 2025 - Aug 31, 2026). His countdown order: #5 Callie (East Village) - Mediterranean-inspired cooking by Chef Travis Swikard with Southern California ingredients; #4 Cesarina (Point Loma) - house-made Italian pasta, your choice of shapes and sauces, his personal favorite Italian spot; #3 Cowboy Star (East Village) - steakhouse and butcher shop known for premium/dry-aged cuts; #2 LEILA (North Park) - Middle Eastern-inspired dining with a custom clay oven, Moroccan/Iranian influences, which he calls possibly the most beautiful restaurant in the city; #1 Lilo (Carlsbad) - Michelin-starred, 24 seats around a chef's counter, seafood-focused California coastal cuisine with Mexican and Iranian inspiration. His framing points: four of the five also made last year's list, with LEILA the newcomer for 2026, and California took 19 of the 100 spots, so San Diego County accounts for over a quarter of the state's total. Verified against OpenTable's official announcement: all five names and locations check out. Two caveats he doesn't mention: OpenTable publishes the list alphabetically, not ranked, so his #5-to-#1 order is his own presentation, not OpenTable's; and the methodology scores only restaurants in OpenTable's own network using an undisclosed weighting of ratings and booking-demand metrics (a SanDiegoVille critique makes this 'follow the money' point). The reel opens with his realtor pitch (link in bio); 117 likes, 7 comments when read. Spelling notes: the spoken analysis rendered 'Callie' as 'Cali,' 'LEILA' as 'Layla,' and placed Cowboy Star in Point Loma - the caption and OpenTable's list confirm Callie, LEILA, and East Village respectively.",
+   "category": "Food & recipes",
+   "tags": [
+    "san-diego",
+    "restaurants",
+    "opentable",
+    "top-100",
+    "dining-guide",
+    "leila"
+   ],
+   "creator_handle": "@matt.thornberg",
+   "creator_name": "Matt Thornberg",
+   "url": "https://www.instagram.com/reel/DfkoG9_yoBt/",
+   "posted_label": "November 10",
+   "added_at": "2026-11-11T17:12:44.340572+00:00",
+   "library_id": 813
   }
  ]
 }
