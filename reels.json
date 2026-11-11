@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 36,
- "generated_at": "2026-11-10T21:17:02.068943+00:00",
- "count": 810,
+ "version": 37,
+ "generated_at": "2026-11-11T17:07:24.693914+00:00",
+ "count": 811,
  "categories": [
   "AI tools",
   "Books",
@@ -13197,6 +13197,25 @@
    "posted_label": "October 9",
    "added_at": "2026-11-10T21:17:02.068943+00:00",
    "library_id": 811
+  },
+  {
+   "title": "Magazines creatives should tap in on: Bloomberg Businessweek covers and the art-direction playbook",
+   "summary": "A podcast-style clip with Oren John (@orenmeetsworld, 'the internet's creative director,' partner at Darkroom Agency) arguing that magazine art direction is now the most important reference for social media creators and YouTube thumbnail designers. It opens with old Bloomberg Businessweek covers that were going viral - three are shown: 'A Very Long Bull,' a figure standing in water, and 'Let's Get It On' with an airplane - and the second speaker calls that run 'legendary graphic design.' (Context beyond the reel: those covers are from Businessweek's celebrated Richard Turley creative-director era, 2010-2014.) Oren's application: he designs his own Instagram carousels to mimic magazine covers - examples shown include 'ART DIRECTING Your Content,' 'Your Customer Avatar IS WRONG,' and 'Paid' - because the first panel has to function as a cover that makes people stop and swipe; investing in art direction is worthwhile. His recommended publications to study for layouts and art direction: Bloomberg Businessweek (the old covers), Noble Rot (wine/food culture magazine), Buffalo Zine (No. 3 shown), Nautilus (science magazine), and Acne Paper (Acne Studios' fashion/art publication). Caption: 'Magazines creatives should tap in on for inspiration.' Posted Nov 10, 2026; 3,633 likes, 11 comments when read - a low-engagement post for his 754K followers.",
+   "category": "Photography & video",
+   "tags": [
+    "magazine-design",
+    "art-direction",
+    "bloomberg-businessweek",
+    "creative-direction",
+    "carousel-design",
+    "design-inspiration"
+   ],
+   "creator_handle": "@orenmeetsworld",
+   "creator_name": "Oren John",
+   "url": "https://www.instagram.com/reel/DflXwdRtV9d/",
+   "posted_label": "November 10",
+   "added_at": "2026-11-11T17:07:24.693914+00:00",
+   "library_id": 812
   }
  ]
 }
