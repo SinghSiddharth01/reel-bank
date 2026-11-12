@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 39,
- "generated_at": "2026-11-12T10:22:37.827565+00:00",
- "count": 813,
+ "version": 40,
+ "generated_at": "2026-11-12T10:33:13.176375+00:00",
+ "count": 814,
  "categories": [
   "AI tools",
   "Books",
@@ -13254,6 +13254,25 @@
    "posted_label": "November 11",
    "added_at": "2026-11-12T10:22:37.827565+00:00",
    "library_id": 814
+  },
+  {
+   "title": "MegaClip: a Miniclip-style hub indexing 6,600+ free browser games, fan PC ports, and Pokémon fan games",
+   "summary": "From Elmo (@digital_elmo, a privacy/AI/hacks creator, ex-Microsoft & AWS): 'Free browser games like Miniclip are back, and MegaClip is way bigger.' The site is megaclip.games, and per the reel it has three layers: (1) 668 free browser games playable instantly with no download or sign-up, on PC or phone - his examples include Black Ops 1 Zombies, GTA III, Minecraft, and Agar.io (caption also name-checks Call of Duty, Halo, Skate 3, The Simpsons); (2) 1,094 PC ports of console classics rebuilt by fans (Super Mario 64, Zelda: Ocarina of Time, God of War); (3) 3,893 Pokemon fan games and ROM hacks (Radical Red, Infinite Fusion, Unbound) - all searchable from one box, 6,600+ games total, updated daily. He stresses it's 100% free, open source on GitHub, and penetration-tested by a cybersecurity firm; the link is comment-gated ('comment MINICLIP'). Verification (checked 2026-11-12): the site is live and the sections/counts match, including a 'VIRAL 32' row pitching the X-famous browser titles; but two of his assurances could not be confirmed - no official GitHub repo for the site was findable (the top 'MegaClip' repo on GitHub is an unrelated 2018 project), and there's no visible evidence of the claimed pen test. Two nuances the hype skips: the site is an index that links out to fan projects hosted elsewhere, and the PC ports page states outright 'bring your own copy of the game' - the ports are fan engines, not free copies of the classics. Comment sentiment was mixed: lots of link requests, some nostalgia, and some skepticism about whether the site was really back/live. Posted Oct 21, 2026; 5,266 likes, 671 comments when read.",
+   "category": "Gaming",
+   "tags": [
+    "browser-games",
+    "retro-gaming",
+    "fan-games",
+    "pokemon",
+    "game-ports",
+    "miniclip"
+   ],
+   "creator_handle": "@digital_elmo",
+   "creator_name": "Elmo",
+   "url": "https://www.instagram.com/reel/DewVOfGTbrv/",
+   "posted_label": "October 21",
+   "added_at": "2026-11-12T10:33:13.176375+00:00",
+   "library_id": 815
   }
  ]
 }
