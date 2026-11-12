@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 38,
- "generated_at": "2026-11-11T17:12:44.340572+00:00",
- "count": 812,
+ "version": 39,
+ "generated_at": "2026-11-12T10:22:37.827565+00:00",
+ "count": 813,
  "categories": [
   "AI tools",
   "Books",
@@ -13235,6 +13235,25 @@
    "posted_label": "November 10",
    "added_at": "2026-11-11T17:12:44.340572+00:00",
    "library_id": 813
+  },
+  {
+   "title": "HyprMac: a free, open-source tiling window manager for macOS, inspired by Hyprland",
+   "summary": "From @gittrend.io (Trending OpenSource Projects, a daily GitHub-trends curator): a screen recording of the HyprMac GitHub README with AI voiceover, pitched at Mac users tired of digging through stacked windows. HyprMac is a free, open-source, keyboard-driven tiling window manager for macOS inspired by Hyprland - windows arrange themselves into tiles instead of overlapping. The control scheme from the narration: Caps Lock acts as the 'Hyper' key; hold it and tap an arrow to move focus between windows, add Shift to swap windows, and use number keys to jump between ten workspaces. Installs via Homebrew, requires macOS 13 or later. Repo link is comment-gated ('comment tile and I'll send you the repo link'). Verified directly on GitHub: the project is zacharytgray/HyprMac (github.com/zacharytgray/HyprMac, site hyprmac.app) - Swift, MIT license, created April 2026, 148 stars / 13 forks when checked, actively maintained (pushed the same day this was archived). Note there is an unrelated namesake, Codesmith28/hyprMac (3 stars) - not this project. Posted Nov 11, 2026; 895 likes, 53 comments when read.",
+   "category": "Tech & homelab",
+   "tags": [
+    "macos",
+    "tiling-window-manager",
+    "hyprland",
+    "open-source",
+    "swift",
+    "homebrew"
+   ],
+   "creator_handle": "@gittrend.io",
+   "creator_name": "Trending OpenSource Projects",
+   "url": "https://www.instagram.com/reel/DfnuG1jG1at/",
+   "posted_label": "November 11",
+   "added_at": "2026-11-12T10:22:37.827565+00:00",
+   "library_id": 814
   }
  ]
 }
