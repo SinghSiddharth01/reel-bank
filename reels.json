@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 41,
- "generated_at": "2026-11-13T00:31:15.719880+00:00",
- "count": 815,
+ "version": 42,
+ "generated_at": "2026-11-13T00:33:23.961274+00:00",
+ "count": 816,
  "categories": [
   "AI tools",
   "Books",
@@ -13292,6 +13292,25 @@
    "posted_label": "November 11",
    "added_at": "2026-11-13T00:31:15.719880+00:00",
    "library_id": 816
+  },
+  {
+   "title": "Aarambh: the custom wedding guest app her brother built — itinerary, check-ins, shared photo gallery",
+   "summary": "Garima (@findingglory.garima, a Bangalore marketing creator) explains, talking to camera, that before her brother's wedding in the US she had to download an app - one her brother built for his own wedding, called Aarambh (the name comes from her replies in the comments; the caption itself is mostly wedding-hashtag SEO). It was a full guest-experience platform: the multi-event itinerary (Haldi, Ceremony, Reception), push notifications, a forum/chat for updates and travel plans, and a check-in feature showing which guests had arrived. The standout feature: an in-app camera, so every photo guests took was automatically uploaded to a shared gallery - no chasing people for pictures on WhatsApp afterwards. It also had interactive puzzles and challenges about the couple. Her argument: Indian weddings already cost a fortune, and a personal app adds a thoughtful touch for guests while managing logistics without spamming group chats. Status: it was built for his wedding only - she invites couples getting married to comment/DM, and per her comment replies she's running a waitlist while they consider scaling it for other weddings. The comments (592, against her ~500 followers - this reel massively outperformed her account) are dominated by people asking for the app, with a recurring skeptical thread that older relatives in India won't download an app for a wedding; some commenters pitch competing services. 4,240 likes when read. Audio: the Band Baaja Baaraat theme. Posted Nov 11, 2026.",
+   "category": "Weddings",
+   "tags": [
+    "wedding-app",
+    "indian-wedding",
+    "guest-experience",
+    "photo-sharing",
+    "wedding-tech",
+    "aarambh"
+   ],
+   "creator_handle": "@findingglory.garima",
+   "creator_name": "Garima",
+   "url": "https://www.instagram.com/reel/Dfm4ZmngTVz/",
+   "posted_label": "November 11",
+   "added_at": "2026-11-13T00:33:23.961274+00:00",
+   "library_id": 817
   }
  ]
 }
