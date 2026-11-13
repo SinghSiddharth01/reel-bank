@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 40,
- "generated_at": "2026-11-12T10:33:13.176375+00:00",
- "count": 814,
+ "version": 41,
+ "generated_at": "2026-11-13T00:31:15.719880+00:00",
+ "count": 815,
  "categories": [
   "AI tools",
   "Books",
@@ -13273,6 +13273,25 @@
    "posted_label": "October 21",
    "added_at": "2026-11-12T10:33:13.176375+00:00",
    "library_id": 815
+  },
+  {
+   "title": "cogit: 'Git for the intent behind agent-written code' — thought commits for Claude Code and Codex",
+   "summary": "From Github Signals (@githubsignals): cogit, a plugin for Claude Code (also Codex CLI) that answers 'why does this AI-written code exist?' It records every message you send the agent as a 'thought commit' - what you asked, what came of it, the decisions with their reasons, the options that were rejected, and which earlier message it continues - captured in real time through the agent's hooks, not reconstructed from the diff afterwards. Code commits get a 'Thought:' trailer pointing back to the reasoning, and cogit why / cogit blame / cogit show walk any line of code back to the message that created it. The map view renders your sessions as a git graph (branches, a 'Your turn' inbox, Resume/Fork buttons that copy the command to reopen or branch a chat); a message that landed commits opens as Intent, Shape (a small diagram of what the change does) and Code; a file view lists every message that touched that file with the reason for each change. Extras: at session end a small model can capture unfinished work as task items (off by default); cogit pr writes PR descriptions from the goal, decisions and rejected options - never the raw chat - and can install a GitHub Action to post them; teams can share the record (titles, decisions, reasons) through git itself, stored outside your branches so it never appears in PRs or git status, while chats stay local and key/token patterns are redacted. Verified against the repo (erensrtky/cogit, MIT, TypeScript, created Oct 27, 2026; 157 stars / 17 forks when checked): requirements are Node 22.13+, a git repo, Claude Code 2.1.275+ or Codex CLI 0.167+; install is npm install -g @cogit/cli, then /plugin install cogit --marketplace erensrtky/cogit, cogit init, cogit open. On cost, the README says a background small model does the recording (author's measurement: under 2 cents per 20 messages in economical mode; by default the session's own model reopens the conversation at the end to correct the record, costing about one extra message). The author's stated motivation: he runs 5-10 agents at once across 2-3 projects and loses track of what was decided where. Motto: 'Cogito, ergo commit.' A no-install demo of the map is at erensrtky.github.io/cogit/demo. Posted Nov 11, 2026; 184 likes, 3 comments when read. Note: the connector's media analysis for this reel was empty, so this summary rests on the caption plus the project's own README, both checked directly.",
+   "category": "AI tools",
+   "tags": [
+    "claude-code",
+    "codex",
+    "git",
+    "developer-tools",
+    "agent-workflows",
+    "open-source"
+   ],
+   "creator_handle": "@githubsignals",
+   "creator_name": "Github Signals",
+   "url": "https://www.instagram.com/reel/DfnJ0OwFDfU/",
+   "posted_label": "November 11",
+   "added_at": "2026-11-13T00:31:15.719880+00:00",
+   "library_id": 816
   }
  ]
 }
