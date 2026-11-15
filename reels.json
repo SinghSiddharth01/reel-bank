@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 44,
- "generated_at": "2026-11-15T01:10:06.898326+00:00",
- "count": 818,
+ "version": 45,
+ "generated_at": "2026-11-15T20:17:16.728722+00:00",
+ "count": 819,
  "categories": [
   "AI tools",
   "Books",
@@ -13349,6 +13349,25 @@
    "posted_label": "October 10",
    "added_at": "2026-11-15T01:10:06.898326+00:00",
    "library_id": 819
+  },
+  {
+   "title": "ESP32 AirPlay 2 Surround Gateway: cheap ESP32-S3 boards become a wireless 5.1/7.1 system for Apple TV",
+   "summary": "Github Signals (@githubsignals) walks the README of the ESP32 AirPlay 2 Surround Gateway (open source: kristian8606/esp32-airplay2-surround), a DIY build that turns a handful of inexpensive ESP32-S3 boards into a full wireless surround system that works directly with an Apple TV. The architecture: one Gateway board receives the complete multi-channel audio stream from the Apple TV, then wirelessly splits and distributes it to up to eight separate speaker boards - one per speaker - and each board decodes only its assigned channel (Front Left, Center, Subwoofer, Rear Right, etc.) and plays it through an amplifier, giving 5.1 or 7.1 surround with no speaker cables at all. The headline trick is synchronization: with no cable between speakers, every board stays sample-aligned by sharing a precise timing signal from the Wi-Fi router, so all devices hit the exact same moment - the pitch is a true movie-theater experience from simple parts. Verified against the repo (github.com/Kristian8606/esp32-airplay2-surround): C++, Apache-2.0, created Oct 24 2026, 222 stars / 15 forks when checked and actively developed (last push the same morning the reel posted). The video itself is a narrated screen recording of the project's GitHub README. Posted Nov 15, 2026 - the same day it was shared; 330 likes, 6 comments when read.",
+   "category": "Tech & homelab",
+   "tags": [
+    "esp32",
+    "airplay-2",
+    "surround-sound",
+    "home-theater",
+    "diy-audio",
+    "open-source"
+   ],
+   "creator_handle": "@githubsignals",
+   "creator_name": "Github Signals",
+   "url": "https://www.instagram.com/reel/Dfw-Ux5DVtE/",
+   "posted_label": "November 15",
+   "added_at": "2026-11-15T20:17:16.728722+00:00",
+   "library_id": 820
   }
  ]
 }
