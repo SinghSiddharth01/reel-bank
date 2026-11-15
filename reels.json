@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 43,
- "generated_at": "2026-11-15T00:20:09.566673+00:00",
- "count": 817,
+ "version": 44,
+ "generated_at": "2026-11-15T01:10:06.898326+00:00",
+ "count": 818,
  "categories": [
   "AI tools",
   "Books",
@@ -13330,6 +13330,25 @@
    "posted_label": "October 23",
    "added_at": "2026-11-15T00:20:09.566673+00:00",
    "library_id": 818
+  },
+  {
+   "title": "God's Eye View: Bilawal Sidhu's open-source 'spy satellite simulator' — live OSINT on a 3D globe",
+   "summary": "Bilawal Sidhu (@bilawal.ai) demos the latest state of God's Eye View, his open-source spatial-intelligence tool, which he says hit #1 trending on GitHub after he open-sourced it - his framing is 'government-level surveillance, made public': a photorealistic 3D globe (Cesium/WebGL) layered with live public data. The demo walks the layers: Weather Layers tracking a hurricane and its uncertainty cone; Satellite Imagery & Change Detection - rewind and compare imagery across dates, with wildfires highlighted; Traffic & Transit with live bus locations; a Global CCTV layer listing live public camera feeds; License Plate Readers; and SDR & Aircraft Tracking showing planes over Europe, including a view from inside a cockpit. From the caption: plug in an SDR antenna to see what's flying overhead, and pull everything into Director Mode to tell stories with geolocated video, satellite imagery, and 3D reconstruction. Verified against the repo (github.com/bilawalsidhu/gods-eye-view, site godseyeview.ai): JavaScript, created June 2026, 64,873 stars and 12,817 forks when checked - the scale backs his trending claim; topics include osint, geospatial-intelligence, flight-tracking, photogrammetry. Per his comment replies, using it means downloading the source and compiling it yourself. Comment sentiment was genuinely split: builders excited about what the community has added on top, against a strong privacy/dystopia thread arguing that aggregating already-public feeds removes the practical guardrails - with constant comparisons to the God's Eye system from Fast & Furious. Link is comment-gated ('comment 3d'). Posted Oct 10, 2026; 17,899 likes, 1,352 comments when read.",
+   "category": "Tech & homelab",
+   "tags": [
+    "osint",
+    "geospatial",
+    "3d-globe",
+    "satellite-imagery",
+    "flight-tracking",
+    "open-source"
+   ],
+   "creator_handle": "@bilawal.ai",
+   "creator_name": "Bilawal Sidhu",
+   "url": "https://www.instagram.com/reel/DeUrWnUv8i_/",
+   "posted_label": "October 10",
+   "added_at": "2026-11-15T01:10:06.898326+00:00",
+   "library_id": 819
   }
  ]
 }
