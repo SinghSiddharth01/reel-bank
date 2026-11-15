@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 42,
- "generated_at": "2026-11-13T00:33:23.961274+00:00",
- "count": 816,
+ "version": 43,
+ "generated_at": "2026-11-15T00:20:09.566673+00:00",
+ "count": 817,
  "categories": [
   "AI tools",
   "Books",
@@ -13311,6 +13311,25 @@
    "posted_label": "November 11",
    "added_at": "2026-11-13T00:33:23.961274+00:00",
    "library_id": 817
+  },
+  {
+   "title": "Self-validating LLMs and the 'LLM Council' fix: five advisors and a chairman to break AI sycophancy",
+   "summary": "Legasse Remon (@remonbiz, ML engineer, ex-TikTok) on 'self-validating LLMs': models like Claude agree with you far too much - a Stanford study shown on screen found AI models endorse users' positions about 49% more than humans do - so asking AI for life advice, gym routines, or business validation builds an echo chamber that just reflects your own framing back at you. (The 49% figure checks out: it's from Stanford research on sycophancy in advice-giving models, widely reported since.) His countermeasure is a prompt framework he attributes to Andrej Karpathy called the LLM Council: instead of one answer, you convene five advisors inside one model - the Contrarian (finds why the idea fails), the Assumption Ripper (challenges the premises), the Expansionist (finds the upsides), the Outsider (asks the obvious questions with no context), and the Executor (cares only about results) - then a Chairman synthesizes their blind reviews into a final verdict. Important attribution nuance, verified: the council name and concept are genuinely Karpathy's (github.com/karpathy/llm-council, Nov 2025, ~24K stars), but his original is a local app that sends your question to several different frontier models (GPT, Claude, Gemini, Grok via OpenRouter) which answer independently, anonymously rank each other's answers, and hand everything to a chairman model - multi-model peer review, not five personas. The five-persona, single-model version in the reel is a later adaptation of Karpathy's idea into a Claude Code skill/prompt (adapted by Ole Lehmann, published as an installable skill); the persona rosters vary slightly between versions (some list a First Principles Thinker instead of the Assumption Ripper). The video ends with a call to comment 'CODER' to join his free Discord tech community. Comments were polarized anecdotes - some say Claude always agrees, others say theirs argues back ('my Claude is literally an opp') - plus a running Evangelion MAGI-system comparison. Posted Oct 23, 2026; 21,847 likes, 4,400 comments when read.",
+   "category": "AI tools",
+   "tags": [
+    "llm-council",
+    "sycophancy",
+    "prompt-framework",
+    "karpathy",
+    "claude",
+    "decision-making"
+   ],
+   "creator_handle": "@remonbiz",
+   "creator_name": "Legasse Remon",
+   "url": "https://www.instagram.com/reel/De1KdfXuIK3/",
+   "posted_label": "October 23",
+   "added_at": "2026-11-15T00:20:09.566673+00:00",
+   "library_id": 818
   }
  ]
 }
