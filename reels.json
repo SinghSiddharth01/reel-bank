@@ -1,8 +1,8 @@
 {
  "feed": "reel-bank",
- "version": 45,
- "generated_at": "2026-11-15T20:17:16.728722+00:00",
- "count": 819,
+ "version": 46,
+ "generated_at": "2026-11-17T18:17:33.665628+00:00",
+ "count": 820,
  "categories": [
   "AI tools",
   "Books",
@@ -13368,6 +13368,25 @@
    "posted_label": "November 15",
    "added_at": "2026-11-15T20:17:16.728722+00:00",
    "library_id": 820
+  },
+  {
+   "title": "Plannotator: a review workspace for staying in the loop with multi-agent coding teams",
+   "summary": "Justin Mendez (@justinmendez.ai) demos Plannotator, which he notes is the #2 trending repo on GitHub right now: a workspace for managing multi-agent software development - keeping a human in the loop while coding agents (Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode, Kiro, Droid) do the work. It has three surfaces. Inbox Surface: a single place to track what your agents are doing and answer the questions they need answered to do the work correctly the first time. Artifacts: when an agent takes a task it first produces a design.md - what it will do and why - and you can annotate plans, specs, markdown and HTML directly, fix issues and ask questions in context, and get a clickable prototype to walk through before code is written. Code Review: review diffs and PRs with annotations, including a guided walkthrough that shows every line of code changed and why, then send all the feedback back to the agent with one click. The pitch is annotation as the steering mechanism for agent teams: shape, decide, plan, annotate, review, share with the team. Verified against the repo (github.com/backnotprop/plannotator, site plannotator.ai): TypeScript, Apache-2.0, created Dec 2025, 12,975 stars / 1,307 forks when checked - matching his 'over 12,000 stars' - with topics including claude-code, codex, plan-mode and code-review; there's also a companion terminal UI (plannotator/plannotator-tui, Rust). Posted Nov 16, 2026; 252 likes, 2 comments when read.",
+   "category": "AI tools",
+   "tags": [
+    "multi-agent",
+    "code-review",
+    "annotation",
+    "claude-code",
+    "plan-mode",
+    "agent-workflow"
+   ],
+   "creator_handle": "@justinmendez.ai",
+   "creator_name": "Justin Mendez",
+   "url": "https://www.instagram.com/reel/Df0AUqYINFG/",
+   "posted_label": "November 16",
+   "added_at": "2026-11-17T18:17:33.665628+00:00",
+   "library_id": 821
   }
  ]
 }
